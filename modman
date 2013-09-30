@@ -1,0 +1,5 @@
+app/etc/modules/*                                   app/etc/modules/
+app/code/community/OnePica/AvaTax                   app/code/community/OnePica/AvaTax
+design/adminhtml/default/default/layout/avatax.xml  design/adminhtml/default/default/layout/avatax.xml
+design/adminhtml/default/default/template/avatax    design/adminhtml/default/default/template/avatax
+design/frontend/base/default/layout/avatax.xml      design/frontend/base/default/layout/avatax.xml
