@@ -5,7 +5,7 @@
     "description": "This extension integrates Magento with AvaTax, a tax service provided by Avalara. ",
     "homepage": "http://www.magentocommerce.com/magento-connect/6760.html",
     "require": {
-        "magento-hackathon/magento-composer-installer": "*"
+        "magento-hackathon/magento-composer-installer": "dev-master"
     },
     "authors":[
         {
